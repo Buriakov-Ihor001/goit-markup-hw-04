@@ -153,8 +153,10 @@ img {
     color: #404BBF;
 }
 
-.hero {
+.hero-wrapper {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
+    max-width: 1440px;
+    margin: 0 auto;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
